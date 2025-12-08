@@ -1,2 +1,31 @@
+<<<<<<< HEAD
 # crud-adso_nodejs_y_mysql
 actividad de crud
+=======
+<<<<<<< HEAD
+# crud-adso_nodejs_y_mysql
+actividad de crud
+=======
+# CRUD con node.js, mysql
+
+src/
+ ├── server.js
+ ├── config/
+ │     └── db.js
+ ├── controllers/
+ │     └── usuario.controller.js
+ ├── routes/
+ │     └── usuario.routes.js
+ └── database/
+       └── query.sql
+
+## instalacion
+#### shell
+npm i express mysql2
+npm i dotenv
+npm i -D nodemon
+## ejecutar
+#### shell
+node src/server.js
+>>>>>>> 354b907 (subir actividad)
+>>>>>>> 4cea2dd (subir proyecto crud)
