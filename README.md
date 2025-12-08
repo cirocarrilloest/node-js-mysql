@@ -1,10 +1,6 @@
 
-# crud-adso_nodejs_y_mysql
-actividad de crud
-## CRUD con node.js, mysql
-
 # actividad de crud
-# CRUD con node.js, mysql
+## CRUD con node.js, mysql
 
 ## instalacion
 #### shell
