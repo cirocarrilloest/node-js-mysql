@@ -1,23 +1,10 @@
 <<<<<<< HEAD
-# crud-adso_nodejs_y_mysql
-actividad de crud
+# crud-adso_nodejs_y_mysql actividad de crud
 =======
 <<<<<<< HEAD
-# crud-adso_nodejs_y_mysql
-actividad de crud
+# crud-adso_nodejs_y_mysql actividad de crud
 =======
 # CRUD con node.js, mysql
-
-src/
- ├── server.js
- ├── config/
- │     └── db.js
- ├── controllers/
- │     └── usuario.controller.js
- ├── routes/
- │     └── usuario.routes.js
- └── database/
-       └── query.sql
 
 ## instalacion
 #### shell
