@@ -27,4 +27,4 @@ esta como .nav-example solo eliminar esta parte "-example" y poner el la contras
 
 ## comentario de la actividad
 
-complemento para la actividad, al unir la base de datos a con node con el frontend
+complemento para la actividad, al unir la base de datos a con node con el frontend, la base de datos usada con su query esta en src/database solo copiar y pegar el codigo
