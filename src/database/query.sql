@@ -9,7 +9,8 @@ CREATE TABLE usuario(
     celular VARCHAR(10) NOT NULL UNIQUE,
     correo VARCHAR(68) NOT NULL UNIQUE,
     contrasenia VARCHAR(100) NOT NULL,
-    estado ENUM('activo','inactivo') NOT NULL DEFAULT 'activo'
+    estado ENUM('activo','inactivo') NOT NULL DEFAULT 'activo',
+    fecha_creacion TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 )ENGINE=InnoDB; 
 TRUNCATE TABLE usuario;// limpiar la tabla de datos
 SELECT * FROM usuario;// ver contenido de tabla
